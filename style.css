@@ -1,0 +1,58 @@
+a {
+    text-decoration: none;
+    color: #288cde;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+ul.hr {
+    margin: 0;
+    padding: 4px;
+}
+
+ul.hr li {
+    display: inline;
+    margin-right: 5px;
+    border: 1px solid #000;
+    padding: 3px;
+}
+
+.repositories {
+    width: 80%;
+    margin: 50px auto 0 auto;
+}
+
+.repository {
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+.page_title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.search-form {
+    text-align: center;
+}
+
+.search-input {
+    width: 250px;
+}
+
+.star {
+    color: blue;
+}
+
+.description {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.error {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(55, 55, 252)
+}
